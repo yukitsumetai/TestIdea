@@ -1,3 +1,3 @@
 public class Test {
-    ddsdf
+   int ddsdf;
 }
