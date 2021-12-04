@@ -3,5 +3,5 @@ import java.util.HashMap;
 public class Test {
    int ddsdf;
 
-   HashMap<Integer, Integer> nws = new HashMap<>();
+   HashMap<int, int> nws = new HashMap<>();
 }
